@@ -1,0 +1,30 @@
+/* sheared style */
+
+*{
+     /* max-width: 1520px; */
+     font-family: sans-serif;
+     margin: 20px;
+}
+
+/* header section */
+
+.header{
+     height: 759px;
+     width: 100%;
+     background-image: url('/resources/Banner\ Image.png');
+     background-repeat: no-repeat;
+     background-size: cover;
+     align-items: center;
+
+}
+.banner{
+
+}
+.header-titel{
+
+}
+.header-discription{
+
+}
+/* this is main section */
+/* this is main first section style */
